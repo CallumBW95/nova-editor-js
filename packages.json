@@ -5,7 +5,10 @@
                 "name": "CallumBW95/nova-editor-js",
                 "version": "1.0.0",
                 "description": "A Laravel Nova field bringing EditorJs magic to Nova.",
-                "src": "./src",
+                "source": {
+                    "url": "./",
+                    "type": "svn"
+                }
                 "keywords": [
                     "laravel",
                     "nova",
