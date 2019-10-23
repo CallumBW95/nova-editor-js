@@ -3,6 +3,7 @@
         "callumbw95/nova-editor-js": {
             "1.0.0": {
                 "name": "CallumBW95/nova-editor-js",
+                "version": "1.0.0",
                 "description": "A Laravel Nova field bringing EditorJs magic to Nova.",
                 "keywords": [
                     "laravel",
